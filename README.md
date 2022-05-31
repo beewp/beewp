@@ -5,9 +5,7 @@
 </h3>
 <br/>
 <p>
-  <a href="mailto:vopgh0409@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
-  <a href="https://jinblog123.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-84a8ad?style=flat-square"/></a>
-  <a href="https://easy-jam-8cd.notion.site/3ac246e72ea44e39ae8d7817e7815150" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="mailto:ganghyoc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WON-JIN-LEE&show_icons=true&theme=tokyonight) -->
 ### 💻 Skills 
